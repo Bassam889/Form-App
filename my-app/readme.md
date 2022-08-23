@@ -1,6 +1,6 @@
 # Form App built React
 
-Web app using the Openweathermap API to get the current weather conditions for the city inputed by the user.
+Web form application.
 
 # Installation
 
