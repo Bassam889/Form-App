@@ -9,21 +9,11 @@
 
 * body {
     background-color: #FBAB7E;
-    /* background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%); */
     height: clamp(50vh, 100vh, 200vh);
     display: flex;
     align-items: center;
     justify-content: center;
     width: clamp(50%, 100%, 130%);
-    /* animation-name: background-animation;
-    animation-duration: 3s;
-    //
-    Note: not that important to use
-    animation-delay: -5s; 
-    //
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-    animation-direction: alternate; */
     -webkit-animation: background-animation 3s linear 0s infinite alternate;
     -moz-animation: background-animation 3s linear 0s infinite alternate;
     -ms-animation: background-animation 3s linear 0s infinite alternate;
